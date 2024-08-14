@@ -1,1 +1,3 @@
 # G2M-insight-for-Cab-Investment-firm
+
+This repository contains a detailed analysis of two cab companies aimed at supporting XYZ's investment decision in the rapidly growing cab industry. The project involves analyzing multiple datasets covering transaction details, customer demographics, and city statistics from 2016 to 2018. Through exploratory data analysis (EDA), hypothesis testing, and visualizations, the goal is to identify key trends and provide actionable insights to determine which company represents a better investment opportunity. The findings are intended to inform XYZ's strategic decisions and will be presented to their Executive team.
